@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SuhasGejji
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any development project
 - 📫 How to reach me suhasgejji10@gmail.com
 
